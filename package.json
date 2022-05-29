@@ -1,0 +1,21 @@
+{
+  "name": "breakout-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend for Social Media App",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/ttahm3d/breakout-backend",
+    "type": "git"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Tahir Ahmed T",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
